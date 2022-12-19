@@ -112,10 +112,10 @@ Every page contains a unified search bar, where users can search for users or po
 
 Project was developed as part of CSCC01 Introduction to Software Engineering course at University of Toronto in a team of seven developers:
 
-- [Kyle Song](https://github.com/KylSong)
+- [Soso Song](https://github.com/soso-song)  (me)
 - [Ben Gavrilov](https://github.com/bengavrilov)
 - [Yifei Gao](https://github.com/YifeiGao)
 - [Kevin Zhu](https://github.com/kaiwen-z)
 - [Wisam Mohiuddin](https://github.com/wisam-m)
 - [Anand Karki](https://github.com/karkonium)
-- Sasha Voitovych (me)
+- Sasha Voitovych
